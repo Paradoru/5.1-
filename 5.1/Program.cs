@@ -1,4 +1,5 @@
 ﻿using System;
+// базовый уровень
 
 namespace _5._1
 {
